@@ -1,7 +1,7 @@
 {
-  "name": "airbnb-api",
+  "name": "JurneyX-api",
   "version": "1.0.0",
-  "description": "API for airbnb clone app",
+  "description": "API for JurneyX app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

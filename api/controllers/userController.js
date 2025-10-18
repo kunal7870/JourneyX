@@ -117,7 +117,7 @@ exports.uploadPicture = async (req, res) => {
   const { path } = req.file
   try {
     let result = await cloudinary.uploader.upload(path, {
-      folder: 'Airbnb/Users',
+      folder: 'JurneyX/Users',
     });
     res.status(200).json(result.secure_url)
   } catch (error) {

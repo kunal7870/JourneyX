@@ -53,7 +53,7 @@ export const Header = () => {
           />
 
           <span className="hidden text-2xl font-bold text-red-500 md:block">
-            airbnb
+            JurneyX
           </span>
         </a>
 
