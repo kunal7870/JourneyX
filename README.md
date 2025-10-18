@@ -9,7 +9,7 @@ This project is a full-stack web application developed as JurneyX using the MERN
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/kunal4019/JurneyX.git
+   git clone [https://github.com/kunal7870/JourneyX.git]
 
    ```
 
