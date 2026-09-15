@@ -1,4 +1,4 @@
-# JurneyX Clone
+# JurneyX
 
 ## Overview
 
